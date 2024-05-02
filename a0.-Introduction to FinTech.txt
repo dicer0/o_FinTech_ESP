@@ -1,0 +1,15 @@
+Introduction to FinTech
+What is interest?
+When you request money from the bank or contract a financial product, i.e. you lend money to the bank usually to increase your own capital (shares, investment funds, insurance, savings accounts, etc.) you have to take into account that, when you return the capital to the bank or get back what you have invested, an extra amount is added, usually described as a percentage. This amount is known as interest.
+ 
+What is credit?
+The term "credit" refers to the ability of a person or company to borrow goods, services or money with the promise to pay it back in the future, usually with additional interest. In simple terms, credit is the trust given to an individual or entity to acquire resources in the present with the obligation to pay for them in the future, this trust always involves risk and is a term that is widely used in finance.
+
+How do banks work and how do they generate money?
+Very briefly, banks simply receive deposits of money from people and with that money they can make loans to other people. Banks make money by giving lower interest rates to the people they receive money from and charging higher interest rates to the people they lend money to. 
+The remainder of the subtraction of interest on lending and receiving money allows the bank to cover its operating costs, protects it from the risk of lending money to people (giving them credit) and the last part is already the bank's profit. 
+	Interest on loans made by the bank is usually paid on a long-term basis and is considered as an asset/asset (money that belongs to the bank).
+	But the money and interest on deposits made to the bank must be paid at the time when the person requires it, so it is considered as a liability (money that is a debt of the bank because it must be returned to the person who made the deposit).
+	Capital is the result of subtracting the bank's assets minus its liabilities.
+	Capital=〖Interest〗_Loans-〖Interest〗_Deposits=Assets-Liabilities.
+	Bank liquidity.
