@@ -1,28 +1,91 @@
+Introduction to FinTech
+
+The word "finance" refers to the set of activities related to the management of money.
+
 What is interest?
-When you request money from the bank or contract a financial product, that is, when you lend money to the bank usually to increase our own capital (stocks, investment funds, insurance, savings accounts, etc.), it is necessary to take into account that, when returning the capital to the bank or recovering the investment, an additional amount is added, usually described in the form of a percentage. This amount is known as interest.
+When you request money from the bank or engage in a financial product (meaning you lend money to the bank to increase your own capital through stocks, investment funds, insurance, savings accounts, etc.), you must take into account that when you repay the capital to the bank or recover what you invested, an extra amount of money is usually added, described as a percentage. This amount is known as interest.
 
 What is credit?
-The term "credit" refers to the ability of a person or company to obtain goods, services, or borrowed money with the promise of repaying it in the future, usually with additional interest. In simple terms, credit is the trust granted to an individual or entity to acquire resources in the present with the obligation to pay for them in the future. This trust always involves risk and is a term widely used in finance.
+The term "credit" refers to the ability of a person or company to obtain goods, services, or borrowed money with the promise of repaying it in the future, usually with additional interest. In simple terms, credit is the trust given to an individual or entity to acquire resources now with the obligation to pay for them later. This trust always involves risk and is a term widely used in finance.
 
 How do banks work and how do they make money?
-In a very simplified way, banks simply receive money deposits from people and with that money, they can make loans to other individuals. Banks make money by offering lower interest rates to people from whom they receive money and contract a financial product and charging higher interest rates to people to whom they lend money. The remainder of the interest on lending and receiving money allows the bank to cover its operating costs, protects it from the risk of lending money to people (giving them credit), and ultimately generates profit.
-The interest on loans made by the bank is usually paid in the long term and this is considered as an asset (money that belongs to the bank).
-But the money and interest from deposits made to the bank, whether a financial product has been contracted or not, must be paid when the person requires it, which is why it is considered a liability (money that is a debt of the bank because it must be returned to the person who made the deposit).
-Capital is the result of subtracting the bank's assets from its liabilities.
-Capital = Interest_Loans - Interest_Deposits = Assets - Liabilities
-The liquidity of the bank.
+In a very summarized form, banks simply receive money deposits from people and with that money, they can make loans to other people or entities. Banks make money by giving lower interest rates to people from whom they receive money (those who have engaged in a financial product) and charging higher interest rates to people they lend money to. It is worth mentioning that banks generally do not pay interest to people who simply keep their money in a standard checking account, only to those who engage in a financial product. The remaining difference between the interest on loans and deposits allows the bank to cover its operating costs and is called capital, which protects the bank from the risk of lending money to people (giving them credit) while generating profits. The interest on loans made by the bank is usually paid over the long term and is considered an asset (money that belongs to the bank). But the interest on deposits made to the bank, whether a financial product has been engaged or not, must be paid to the user when they request it, so it is considered a liability (money that is a debt of the bank because it must be returned to the depositor). Capital is the result of subtracting the bank's liabilities from its assets.
+Capital = Interest on Loans - Interest on Deposits = Assets - Liabilities
 
+What is a financial product?
+A financial product is a tool that allows us to manage our money to increase it through saving and investing in financial markets.
+
+Types of financial products: Savings, Investment, and Financing
+There are three types of financial products: Savings, Investment, and Financing. These can be adjusted to the user's needs and the level of risk they want to experience.
+
+Savings: These are financial products designed to store a percentage of the user's money safely and earn a small interest by lending it to the bank.
+Examples: Savings accounts, fixed-term deposits, promissory notes, etc.
+Risk: Low, as they are insured and offer predictable returns.
+Investment: These are financial products aimed at increasing the user's money by purchasing assets (resources owned by individuals, companies, or entities) through financial markets. Their risk is higher compared to savings financial products.
+Examples: Company stocks, bonds (debts of companies or governments), investment funds, derivatives (a financial product whose value depends on another related asset), real estate, etc.
+Risk: Moderate to high, depending on the type of investment and market conditions.
+Financing or Financing: These are financial products that allow the user to borrow money (credit) for various purposes, such as buying a house, a car, financing a business, etc. To obtain these types of products, the user must have a credit history, which will be analyzed by a bank advisor to determine whether the requested loan is accepted or rejected.
+Examples: Personal loans, mortgages, lines of credit.
+Risk: The risk is primarily for the lender (i.e., the bank), while the user must consider their ability to repay the loan plus interest.
+Financial products can be offered by financial institutions such as banks, insurance companies, investment funds (which are also financial products), stock exchanges, etc.
+
+What is a financial market and what are the most important investments?
+Financial markets allow buyers and sellers of investment-type financial products to negotiate the prices of their assets (resources owned by individuals, companies, or entities) and conduct transactions efficiently and securely.
+
+The most commonly used investment financial products in financial markets are:
+
+Stocks: When you acquire this investment, you are buying a part of a company. As an investor, this grants rights over its assets and profits. The risk of this type of investment lies in the possibility that the value of the shares may change in the market.
+Bonds: These are assets that represent debt instruments issued by governments or companies to other users called issuers to obtain financing. Bonds pay periodic interest and, at the end of the established loan period that generated the debt, the issuing entity must repay the initial amount invested to the investor.
+Savings accounts and fixed-term deposits: These are low-risk investments that offer a way to save money and earn interest on the funds deposited in a financial institution.
+Insurance: These are financial products that are paid periodically, either monthly or annually, and are designed to protect the user against specific risks such as accidents, illnesses, property damage, etc. Their main function is to provide financial compensation in case the insured event occurs, and they do not return interest to the user as a return on investment.
+Derivatives: These are investments whose value depends on another related asset, called the underlying asset, without needing to physically own the asset. For example, imagine we make an agreement to buy a car in the future at a specific and fixed price, but without paying for it right now. If the price of the car goes up, we will make money because we can resell it at a higher price, but if it goes down, we can lose money because we are paying too much for it or have the option to sell the contract before it expires. Derivatives work similarly, managing risks and making bets on future prices in the financial market.
+Investment funds: These are financial instruments (parts of financial markets) that pool the money of several investors to invest in a diversified portfolio of assets, such as stocks, bonds, real estate, etc.
+These are just a few examples of investment-type financial products, and the financial market can offer a wide variety of options to meet the investment, risk management, and financing needs of individuals and businesses.
+
+Regions into which the financial market is divided: AMER, EMEA, and APAC
+The global financial market is divided into three key geographical regions that are crucial for the world's financial and economic activity:
+
+APAC (Asia-Pacific): This is the first region where the global financial market opens due to its advanced time zone. It opens at 17:00 PM CST and closes at 01:00 AM CST (Central Standard Time for the United States, Mexico, and Canada).
+The countries that make up the APAC region are: Australia, China, India, Japan, South Korea, Singapore, Taiwan, Thailand, Malaysia, Indonesia, the Philippines, New Zealand, Vietnam, Bangladesh, Pakistan, Sri Lanka, etc.
+EMEA (Europe, Middle East, and Africa): This is the second region where the global financial market opens. It opens at 1:00 AM CST and closes at 09:00 AM CST (Central Standard Time for the United States, Mexico, and Canada).
+The countries that make up the EMEA region are:
+Europe: Germany, France, United Kingdom, Italy, Spain, Netherlands, Belgium, Switzerland, Sweden, Norway, Denmark, Austria, Poland, Russia, etc.
+Middle East: Saudi Arabia, United Arab Emirates, Qatar, Kuwait, Israel, Turkey, etc.
+Africa: South Africa, Nigeria, Egypt, Kenya, Morocco, Ghana, etc.
+AMER (America): This is the third (last) region where the global financial market opens. It opens at 08:30-09:00 AM CST and closes at 15:00 PM CST (Central Standard Time for the United States, Mexico, and Canada).
+The countries that make up the AMER region are: United States, Canada, Mexico, Brazil, Argentina, Chile, Colombia, Peru, Venezuela, Ecuador, Dominican Republic, Cuba, Costa Rica, Panama, etc.
+The different time zones that exist to recognize when the three geographical regions of the global financial market open and close around CST, which is Mexico time, are:
+
+AEST: Australian Eastern Standard Time +15 hours CST.
+JST: Japan Standard Time +14 hours CST.
+IST: Indian Standard Time +11.5 hours CST.
+MSK: Moscow Standard Time +8 hours CST.
+AST: Arabia Standard Time +8 hours CST.
+EET: Eastern European Time +7 hours CST.
+CET: Central European Time +6 hours CST.
+BST: British Summer Time +5 hours CST.
+GMT: Greenwich Mean Time +5 hours CST.
+UTC: Coordinated Universal Time +5 hours CST.
+CST: Central Standard Time (used in the United States, Mexico, and Canada).
+CDT: Central Daylight Time -1 hour CST.
+EST: Eastern Standard Time -1 hour CST.
+PST: Pacific Standard Time -2 hours CST.
+PDT: Pacific Daylight Time -2 hours CST.
+BRT: Brasília Time -2 hours CST.
 What are investments?
+
 Characteristics:
-APAC, EMEA, AMER.
+
 Trader.
+Portfolio.
+Batches: With batches knowledge we can predict the current or future status of the market by calculating PnL and Risk from investments’ values.
 Risk.
 PnL.
-Upstream = Data extraction from multiple DB.
-Downstream = The stakeholders are gonna be benefitted from the data obtained from the upstream.
+Upstream: Data extraction from multiple DB.
+Downstream: The stakeholders are going to benefit from the data obtained from the upstream.
 Dynamic and Static data.
-Trade Store = Trading data storage.
-Live trade = Trade that is going into the market daily and coming back.
-Desk trade = Trades that are on the market but are not being valued continuously.
-RS = Radial Upload = Uploader.
+Trade Store: Trading data storage.
+Live trade: Trade that is going into the market daily and coming back.
+Desk trade: Trades that are on the market but are not being valued continuously.
+RS: Radial Upload = Uploader.
 Working flow: Upstream → Fintech → HPC Engines/Servers → Downstreams.
