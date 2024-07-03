@@ -11,4 +11,4 @@ And this specific repository contains documentation about FinTech, including kno
 <br/>
 &nbsp;
 
-[![Fin Tech](http://dicer0.com/wp-content/uploads/2024/04/o_FinTech.png)](https://dicer0.com/#skills)
+[![FinTech](http://dicer0.com/wp-content/uploads/2024/04/o_FinTech.png)](https://dicer0.com/#skills)
