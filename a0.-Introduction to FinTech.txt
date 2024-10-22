@@ -1,91 +1,101 @@
-Introduction to FinTech
+DIEGO CERVANTES RODRÍGUEZ
+Mechatronics Engineer 
+Mexico City, Mexico | +525526563778 | hi.dicer0@gmail.com | LinkedIn
+PROFILE
+Mechatronics Engineer with 9+ years of experience in mechanics, electronics, robotics, embedded systems, full-stack web, and mobile application development. Proven leadership in diverse international projects, from the development of A.I. process automations with Python, to the design & manufacture of an IoT renewable electric energy generation prototype during a Mercedes Benz global fellowship in 2024. Winner of the BBVA Hackathon in 2019 & 2020.
 
-The word "finance" refers to the set of activities related to the management of money.
+KEY COMPETENCIES
+·	Artificial Intelligence & LLM
+·	Mobile Applications Development
+·	Agile Methodologies
+·	Data Analysis
+·	Full-stack Web Development
+·	Embedded Systems Programming
+·	Artificial Vision
+·	Presenting & Public Speaking
+·	Effective Communication
 
-What is interest?
-When you request money from the bank or engage in a financial product (meaning you lend money to the bank to increase your own capital through stocks, investment funds, insurance, savings accounts, etc.), you must take into account that when you repay the capital to the bank or recover what you invested, an extra amount of money is usually added, described as a percentage. This amount is known as interest.
+Programming Languages: HTML, CSS, PHP, SQL, JavaScript (Node.js, AJAX, Angular, D3.js, React.js), Python (OpenAI, LangChain, FastAPI, PyQt5, Matplotlib, Numpy, OpenCV, SQLAlchemy, Unittest, MicroPython, Django, etc.), Solidity, PowerShell, C, C++, C#, VHDL, Verilog, Assembly, Kotlin (Material Design, Jetpack, Room, BLE, Google Play Services), Java (SpringBoot), XML, MATLAB.
 
-What is credit?
-The term "credit" refers to the ability of a person or company to obtain goods, services, or borrowed money with the promise of repaying it in the future, usually with additional interest. In simple terms, credit is the trust given to an individual or entity to acquire resources now with the obligation to pay for them later. This trust always involves risk and is a term widely used in finance.
+Technologies/Platforms: WordPress, Shopify (CMS), AWS, MySQL, PostgreSQL, Microsoft SQL Server, Oracle, MongoDB, Cloud Firestore (relational and NoSQL databases), Git & GitHub, Blockchain, MetaMask, .NET Framework, Raspberry Pi, Xilinx, Adept, Microchip Studio, Arduino, Altium, Eagle, Proteus, Multisim, Capture CIS, COMSOL Multiphysics, SolidWorks, Ultimaker Cura, MATLAB, Simulink, LabVIEW, BluePrism (Virtual Instrumentation, RPA), ISPSoft COMMGR, FESTO FluidSIM, Femm, IntelliJ IDEA, Android Studio, Firebase.
 
-How do banks work and how do they make money?
-In a very summarized form, banks simply receive money deposits from people and with that money, they can make loans to other people or entities. Banks make money by giving lower interest rates to people from whom they receive money (those who have engaged in a financial product) and charging higher interest rates to people they lend money to. It is worth mentioning that banks generally do not pay interest to people who simply keep their money in a standard checking account, only to those who engage in a financial product. The remaining difference between the interest on loans and deposits allows the bank to cover its operating costs and is called capital, which protects the bank from the risk of lending money to people (giving them credit) while generating profits. The interest on loans made by the bank is usually paid over the long term and is considered an asset (money that belongs to the bank). But the interest on deposits made to the bank, whether a financial product has been engaged or not, must be paid to the user when they request it, so it is considered a liability (money that is a debt of the bank because it must be returned to the depositor). Capital is the result of subtracting the bank's liabilities from its assets.
-Capital = Interest on Loans - Interest on Deposits = Assets - Liabilities
 
-What is a financial product?
-A financial product is a tool that allows us to manage our money to increase it through saving and investing in financial markets.
+WORK EXPERIENCE
+Thomson Reuters | Mexico, Hybrid                                                             			Nov 2024 – Present
+A leader provider of information and technology solutions, empowering professionals in the legal, tax, and media sectors.
+Senior Artificial Intelligence & Backend Engineer
+·  Developed scalable chat AI solutions that improved machine learning capabilities and specialized customer service, increasing data processing efficiency by 30% through Python optimized API pipelines.
+·  Architected and implemented high-performance backend systems, resulting in a 25% increase in processing speed and scalability for large-scale environments, ensuring efficiency and scalability.
+·  Led cross-departmental and functional collaboration on end-to-end AI solution delivery, reducing time-to-market by 15% by streamlining workflows and adopting agile practices.
 
-Types of financial products: Savings, Investment, and Financing
-There are three types of financial products: Savings, Investment, and Financing. These can be adjusted to the user's needs and the level of risk they want to experience.
+TCS (Tata Consultancy Services) | Mexico, Remote                                                             	Apr 2022 – Nov 2024
+A global leader in IT services, consulting and business solutions, leveraging technology for business transformation.
+Technology Consultant
+·   Developed Python automations, data science tools, and complex SQL queries to extract market trading information for a leading UK bank, improving internal reporting efficiency by 90% in stakeholder investment risk and PnL reporting.
+·  Implemented Blue Prism RPA, optimizing workflows for a top global insurance company by monitoring 20-30 robots and producing MI reports, leading to a 40% increase in process efficiency and 20% reduction in manual errors.
+·   Created dynamic reports and dashboards, utilizing ServiceNow’s ticketing system, reducing reporting time by 35% and improving decision-making accuracy by 25% across key operational processes.
 
-Savings: These are financial products designed to store a percentage of the user's money safely and earn a small interest by lending it to the bank.
-Examples: Savings accounts, fixed-term deposits, promissory notes, etc.
-Risk: Low, as they are insured and offer predictable returns.
-Investment: These are financial products aimed at increasing the user's money by purchasing assets (resources owned by individuals, companies, or entities) through financial markets. Their risk is higher compared to savings financial products.
-Examples: Company stocks, bonds (debts of companies or governments), investment funds, derivatives (a financial product whose value depends on another related asset), real estate, etc.
-Risk: Moderate to high, depending on the type of investment and market conditions.
-Financing or Financing: These are financial products that allow the user to borrow money (credit) for various purposes, such as buying a house, a car, financing a business, etc. To obtain these types of products, the user must have a credit history, which will be analyzed by a bank advisor to determine whether the requested loan is accepted or rejected.
-Examples: Personal loans, mortgages, lines of credit.
-Risk: The risk is primarily for the lender (i.e., the bank), while the user must consider their ability to repay the loan plus interest.
-Financial products can be offered by financial institutions such as banks, insurance companies, investment funds (which are also financial products), stock exchanges, etc.
+Chasing Fences | Mexico, Hybrid                                                                                    		Mar 2020 ­– Apr 2022
+A full-stack web development company specializing in e-commerce and administrative sites for international clients.
+Full-stack Lead
+·   Established and led a multidisciplinary team of 10, overseeing operations, including customer acquisition, partnership development, and full-stack implementation, delivering over 50 projects for enterprise and consumer clients globally.
+·   Expanded business presence in Canada, Lebanon, USA, and Mexico by forming strategic alliances with two branding agencies, increasing client base by 40%.
+·   Focused on full-stack web development and A.I. process automations for e-commerce and administrative sites, using Shopify, WordPress, and custom solutions (HTML, CSS, Node.js, React.js, etc.) with a MVC architecture.
+·  Increased Disi Nutrition’s revenue to $52,600 annually by 2024, leveraging full-stack web development and ecommerce solutions, expanding client reach across Colombia, USA, and Canada.
+· Guided Corazón Helado to reach $72,365 annual revenue by 2024, leveraging full-stack web development, e-commerce, and artificial intelligence automation solutions to boost sales and customer engagement.
 
-What is a financial market and what are the most important investments?
-Financial markets allow buyers and sellers of investment-type financial products to negotiate the prices of their assets (resources owned by individuals, companies, or entities) and conduct transactions efficiently and securely.
+Muevetec Mexico| Mexico                                                                                             		Jun 2021 – Feb 2022
+A company dedicated to the customisation and marketing of three-wheeler vehicles.
+Mechanical Analysis Lead
+·   Led the mechanical analysis project for a three-wheeler vehicle model, managing material selection, part dimensions, and safety factors in accordance with SAE standards, ensuring compliance and product safety.
+·   Achieved the WMI (World Manufacturer Identifier) certification, positioning Muevetec as one of the only 7 companies in Mexico to achieve this, enabling the assembly of imported parts from China and branding as "Made in Mexico".
+·  Generated $60k in production savings from gaining the WMI certification, allowing a $10k reinvestment in a new product line that resulted in a 35% sales growth, driving total revenue to $700k.
+·   Conducted and documented detailed mechanical analyses for the manufacturing process, utilizing technologies such as SolidWorks, COMSOL Multiphysics, and GitHub, improving the manufacturing process.
+ 
+ISIA | Mexico, Remote                                                                                                   		Jun 2021 – Feb 2022
+A team dedicated to designing, manufacturing, and installing automated entrance and access control systems.
+Android Lead
+·  Proposed, and led the early development of a native Android e-commerce application for door automation electric motors, resulting in a 30% increase in sales through improved customer accessibility and engagement..
+·   Implemented a MVVM architecture design while integrating a Node.js API for real-time product information, achieving seamless synchronization with the company’s React.js website and the Android app, enhancing user experience.
+·  Established a robust documentation process for the entire development lifecycle, covering code and manuals, utilizing Agile SCRUM methodology, which reduced onboarding time for new developers by 25% and improved project efficiency.
+·  Integrated user authentication through Google’s Firebase platform, enhancing the application’s security and user experience, contributing to a 20% increase in user retention.
 
-The most commonly used investment financial products in financial markets are:
+Grupo Montes De Oca Y De La Hoz | Mexico, Hybrid                                                       		Sept 2019 – Feb 2022
+A start-up incubator of high-impact companies and provider of consultancy in strategic innovation.
+Mechatronic Project Leader
+·   Led SCRUM-based project management for a mechatronic initiative, overseeing investor outreach and the design & fabrication of a prototype bicycle front wheel that generates and stores renewable electric energy, securing $50k in funding and obtaining critical support and mentorship from an incubator, which positively shaped the project's direction.
+·   Conducted comprehensive simulations and mathematical analyses, achieving output results of 5V/1A or 54V/0.3A, validating the prototype’s efficiency and functionality for renewable energy generation.
+·  Designed and manufactured the prototype from scratch, including its embedded system using the ESP32 microcontroller with Python, created a PCB design with Altium, and developed mechanical designs with SolidWorks and COMSOL Multiphysics, enhancing project delivery speed by 30% through efficient design processes.
+·   Represented the company at industry conferences, showcasing innovations and solutions, leading to increased visibility and interest in the project, which is currently competing at the 2024 Mercedes Benz BeVisioneers fellowship.
 
-Stocks: When you acquire this investment, you are buying a part of a company. As an investor, this grants rights over its assets and profits. The risk of this type of investment lies in the possibility that the value of the shares may change in the market.
-Bonds: These are assets that represent debt instruments issued by governments or companies to other users called issuers to obtain financing. Bonds pay periodic interest and, at the end of the established loan period that generated the debt, the issuing entity must repay the initial amount invested to the investor.
-Savings accounts and fixed-term deposits: These are low-risk investments that offer a way to save money and earn interest on the funds deposited in a financial institution.
-Insurance: These are financial products that are paid periodically, either monthly or annually, and are designed to protect the user against specific risks such as accidents, illnesses, property damage, etc. Their main function is to provide financial compensation in case the insured event occurs, and they do not return interest to the user as a return on investment.
-Derivatives: These are investments whose value depends on another related asset, called the underlying asset, without needing to physically own the asset. For example, imagine we make an agreement to buy a car in the future at a specific and fixed price, but without paying for it right now. If the price of the car goes up, we will make money because we can resell it at a higher price, but if it goes down, we can lose money because we are paying too much for it or have the option to sell the contract before it expires. Derivatives work similarly, managing risks and making bets on future prices in the financial market.
-Investment funds: These are financial instruments (parts of financial markets) that pool the money of several investors to invest in a diversified portfolio of assets, such as stocks, bonds, real estate, etc.
-These are just a few examples of investment-type financial products, and the financial market can offer a wide variety of options to meet the investment, risk management, and financing needs of individuals and businesses.
+AG Electrónica | Mexico City, Mexico                                                                               		Oct 2018 – Jul 2019
+Specialist in the retail of a wide range of cutting-edge electronic products, devices and equipment.
+Electronics Engineer
+·  Programmed a proportional-integral-derivative (PID) controller for a drone within its ESP32 embedded system, successfully utilizing a balance sensor to regulate power to four brushless motors, which enabled stable flight and improved control responsiveness by 40%.
+·  Conducted extensive research to prepare comprehensive technical data sheets for over 90 electronic components, enhancing product knowledge and aiding in informed decision-making, resulting in a 20% reduction in procurement errors.
 
-Regions into which the financial market is divided: AMER, EMEA, and APAC
-The global financial market is divided into three key geographical regions that are crucial for the world's financial and economic activity:
 
-APAC (Asia-Pacific): This is the first region where the global financial market opens due to its advanced time zone. It opens at 17:00 PM CST and closes at 01:00 AM CST (Central Standard Time for the United States, Mexico, and Canada).
-The countries that make up the APAC region are: Australia, China, India, Japan, South Korea, Singapore, Taiwan, Thailand, Malaysia, Indonesia, the Philippines, New Zealand, Vietnam, Bangladesh, Pakistan, Sri Lanka, etc.
-EMEA (Europe, Middle East, and Africa): This is the second region where the global financial market opens. It opens at 1:00 AM CST and closes at 09:00 AM CST (Central Standard Time for the United States, Mexico, and Canada).
-The countries that make up the EMEA region are:
-Europe: Germany, France, United Kingdom, Italy, Spain, Netherlands, Belgium, Switzerland, Sweden, Norway, Denmark, Austria, Poland, Russia, etc.
-Middle East: Saudi Arabia, United Arab Emirates, Qatar, Kuwait, Israel, Turkey, etc.
-Africa: South Africa, Nigeria, Egypt, Kenya, Morocco, Ghana, etc.
-AMER (America): This is the third (last) region where the global financial market opens. It opens at 08:30-09:00 AM CST and closes at 15:00 PM CST (Central Standard Time for the United States, Mexico, and Canada).
-The countries that make up the AMER region are: United States, Canada, Mexico, Brazil, Argentina, Chile, Colombia, Peru, Venezuela, Ecuador, Dominican Republic, Cuba, Costa Rica, Panama, etc.
-The different time zones that exist to recognize when the three geographical regions of the global financial market open and close around CST, which is Mexico time, are:
+CREA PROYECTOS | Mexico                                                                                              		Jan 2016 – Jul 2021
+Experts in rainwater and industrial water management, offering solutions for collection, cleaning, treatment, etc.
+Business & Website Developer
+·   Executed the development of the company’s inaugural website, utilizing full-stack website design. This elevated CREA’s online presence, achieving a 20% increase in sales leads from website visits and Google ads.
+ 
+EDUCATION
+National Polytechnic Institute (IPN), One of the top 3 Engineering Universities in Mexico | Mexico City
+BSc in Mechatronics Engineering
 
-AEST: Australian Eastern Standard Time +15 hours CST.
-JST: Japan Standard Time +14 hours CST.
-IST: Indian Standard Time +11.5 hours CST.
-MSK: Moscow Standard Time +8 hours CST.
-AST: Arabia Standard Time +8 hours CST.
-EET: Eastern European Time +7 hours CST.
-CET: Central European Time +6 hours CST.
-BST: British Summer Time +5 hours CST.
-GMT: Greenwich Mean Time +5 hours CST.
-UTC: Coordinated Universal Time +5 hours CST.
-CST: Central Standard Time (used in the United States, Mexico, and Canada).
-CDT: Central Daylight Time -1 hour CST.
-EST: Eastern Standard Time -1 hour CST.
-PST: Pacific Standard Time -2 hours CST.
-PDT: Pacific Daylight Time -2 hours CST.
-BRT: Brasília Time -2 hours CST.
-What are investments?
+CERTIFICATIONS
+Platzi, PostgreSQL, SQL & Artificial Intelligence and Machine Learning | 2024
+TCS, ITIL Foundation, Software Security Assurance & Artificial Intelligence: Generative AI Foundation | 2023
+AG Electrónica, Embedded System Development & 3D Printing | 2019
+Dev.f, White, Red & Black Ribbon on Fullstack Web Development | 2018
 
-Characteristics:
+AWARDS
+BeVisioneers Mercedes Benz Fellowship 2024: Clean energy IoT project fellowship at international global summit from Berlin.
+BBVA Hackathon Winner 2020: Accenture’s Blockchain Challenge (Ethereum, HTML, CSS, JavaScript, Python).
+BBVA Hackathon Winner 2019: Data Visualization Challenge (HTML, CSS, JavaScript, Python).
 
-Trader.
-Portfolio.
-Batches: With batches knowledge we can predict the current or future status of the market by calculating PnL and Risk from investments’ values.
-Risk.
-PnL.
-Upstream: Data extraction from multiple DB.
-Downstream: The stakeholders are going to benefit from the data obtained from the upstream.
-Dynamic and Static data.
-Trade Store: Trading data storage.
-Live trade: Trade that is going into the market daily and coming back.
-Desk trade: Trades that are on the market but are not being valued continuously.
-RS: Radial Upload = Uploader.
-Working flow: Upstream → Fintech → HPC Engines/Servers → Downstreams.
+OTHER INFORMATION
+Languages: Spanish C2 (fluent), English C1 (fluent).
+Volunteering: Rescuer in regions affected by the 19/09/17 earthquake in Mexico.
+Interests: Dancing bachata, boxing, designing prototypes, hiking.
